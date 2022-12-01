@@ -3,3 +3,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brace&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bracesproul&layout=compact" />
 </a>
+<img src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fbracesproul" />
