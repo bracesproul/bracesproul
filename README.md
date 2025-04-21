@@ -1,1 +1,1 @@
-[![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer)
+[![Hits](https://www.sproul.dev/api/gh-viewer-v2)](https://www.sproul.dev/api/gh-viewer-v2)
